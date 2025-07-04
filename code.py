@@ -1,0 +1,2 @@
+s = 'sruthi' 
+print(s)
